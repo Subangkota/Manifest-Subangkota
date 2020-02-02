@@ -1,0 +1,38 @@
+{
+  "name": "Subang Kota",
+  "short_name": "Subang Kota",
+  "start_url": "https://www.subangkota.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "##1f3a93",
+  "description": "Media Informasi Terbaru Yang Mengulas Serba-Serbi Tentang Teknologi Seperti Internet, Android, Komputer, Elektronik, Aplikasi dan, Game Terkini.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-1c8Ern9UljI/Xjc7rtiWx2I/AAAAAAAAAAo/Z6nNm1q3KpMBcPauKldT3ynR8z0AGKHMQCLcBGAsYHQ/s48/Subangkota.com.jpg",
+    "sizes": "48x48",
+    "type": "image/jpg"
+  }, {
+    "src": "https://1.bp.blogspot.com/-1c8Ern9UljI/Xjc7rtiWx2I/AAAAAAAAAAo/Z6nNm1q3KpMBcPauKldT3ynR8z0AGKHMQCLcBGAsYHQ/s72/Subangkota.com.jpg",
+    "sizes": "72x72",
+    "type": "image/jpg"
+  }, {
+    "src": "https://1.bp.blogspot.com/-1c8Ern9UljI/Xjc7rtiWx2I/AAAAAAAAAAo/Z6nNm1q3KpMBcPauKldT3ynR8z0AGKHMQCLcBGAsYHQ/s96/Subangkota.com.jpg",
+    "sizes": "96x96",
+    "type": "image/jpg"
+  }, {
+    "src": "https://1.bp.blogspot.com/-1c8Ern9UljI/Xjc7rtiWx2I/AAAAAAAAAAo/Z6nNm1q3KpMBcPauKldT3ynR8z0AGKHMQCLcBGAsYHQ/s144/Subangkota.com.jpg",
+    "sizes": "144x144",
+    "type": "image/jpg"
+  }, {
+    "src": "https://1.bp.blogspot.com/-1c8Ern9UljI/Xjc7rtiWx2I/AAAAAAAAAAo/Z6nNm1q3KpMBcPauKldT3ynR8z0AGKHMQCLcBGAsYHQ/s168/Subangkota.com.jpg",
+    "sizes": "168x168",
+    "type": "image/jpg"
+  }, {
+    "src": "https://1.bp.blogspot.com/-1c8Ern9UljI/Xjc7rtiWx2I/AAAAAAAAAAo/Z6nNm1q3KpMBcPauKldT3ynR8z0AGKHMQCLcBGAsYHQ/s192/Subangkota.com.jpg",
+    "sizes": "192x192",
+    "type": "image/jpg"
+  }, {
+    "src": "https://1.bp.blogspot.com/-1c8Ern9UljI/Xjc7rtiWx2I/AAAAAAAAAAo/Z6nNm1q3KpMBcPauKldT3ynR8z0AGKHMQCLcBGAsYHQ/s512/Subangkota.com.jpg",
+    "sizes": "512x512",
+    "type": "image/jpg"
+  }]
+}
